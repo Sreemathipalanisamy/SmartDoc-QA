@@ -53,22 +53,22 @@ To run SmartDoc QA locally, follow these steps:
 
 ---
 
-##🚀 Usage
+## 🚀 Usage
 Once the application is running in your browser:
 
-📥 Upload a PDF document
-🔄 The app will automatically extract and chunk the content
-❓ Enter your question in the input box
-✅ Get an answer based solely on the document
-📚 Expand the retrieved context to verify source content
-🔗 View the cited pages used in generating the answer
+- 📥 Upload a PDF document
+- 🔄 The app will automatically extract and chunk the content
+- ❓ Enter your question in the input box
+- ✅ Get an answer based solely on the document
+- 📚 Expand the retrieved context to verify source content
+- 🔗 View the cited pages used in generating the answer
 
 ---
 
-##🧠 Powered By
+## 🧠 Powered By
 
-Streamlit — for interactive UI
-doctr — for OCR text extraction
-ChromaDB — for vector storage and retrieval
-SentenceTransformers — for semantic embeddings
-HuggingFace Transformers — FLAN-T5 for question answering
+- Streamlit — for interactive UI
+- doctr — for OCR text extraction
+- ChromaDB — for vector storage and retrieval
+- SentenceTransformers — for semantic embeddings
+- HuggingFace Transformers — FLAN-T5 for question answering

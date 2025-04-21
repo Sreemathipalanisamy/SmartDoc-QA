@@ -38,3 +38,37 @@ To run SmartDoc QA locally, follow these steps:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/smartdoc-qa.git
+
+2. **Navigate to the project directory**
+   ```bash
+   cd smartdoc-qa
+
+3. **Install the dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the application**
+   ```bash
+   streamlit run rag.py
+
+---
+
+##🚀 Usage
+Once the application is running in your browser:
+
+📥 Upload a PDF document
+🔄 The app will automatically extract and chunk the content
+❓ Enter your question in the input box
+✅ Get an answer based solely on the document
+📚 Expand the retrieved context to verify source content
+🔗 View the cited pages used in generating the answer
+
+---
+
+##🧠 Powered By
+
+Streamlit — for interactive UI
+doctr — for OCR text extraction
+ChromaDB — for vector storage and retrieval
+SentenceTransformers — for semantic embeddings
+HuggingFace Transformers — FLAN-T5 for question answering

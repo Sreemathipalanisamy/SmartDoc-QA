@@ -10,7 +10,7 @@ SmartDoc QA is a web-based document question-answering application that enables 
 - [✨ Features](#-features)  
 - [⚙️ Installation](#️-installation)  
 - [🚀 Usage](#-usage)
-- [🧠 Powered By](#-powered)
+- [🧠 Powered By](#-powered by)
 
 ---
 
